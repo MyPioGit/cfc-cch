@@ -6,6 +6,8 @@
  * Version     : 1.0.0
  * Repository  : https://github.com/MyPioGit/cfc-cch
  * Docs        : README.md
+ * Status      : Temporarily API-backed for bundle creation.
+ *               A future update will support API-free operation.
  *
  * Copyright (c) 2026 popioo. All rights reserved.
  *
