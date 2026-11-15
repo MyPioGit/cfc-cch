@@ -10,6 +10,17 @@
 </p>
 
 <p align="center">
+  <b><a href="https://github.com/MyPioGit/cfc-cch/wiki/CFC%E2%80%90CCH_WIKI_EN">English</a></b> |
+  <a href="https://github.com/MyPioGit/cfc-cch/wiki/CFC%E2%80%90CCH_WIKI_ID">Bahasa Indonesia</a> |
+  <a href="https://github.com/MyPioGit/cfc-cch/wiki/CFC%E2%80%90CCH_WIKI_EG">العربية (مصر)</a> |
+  <a href="https://github.com/MyPioGit/cfc-cch/wiki/CFC%E2%80%90CCH_WIKI_BR">Português (Brasil)</a> |
+  <a href="https://github.com/MyPioGit/cfc-cch/wiki/CFC%E2%80%90CCH_WIKI_IN">हिन्दी (भारत)</a> |
+  <a href="https://github.com/MyPioGit/cfc-cch/wiki/CFC%E2%80%90CCH_WIKI_MY">Bahasa Melayu (Malaysia)</a>
+</p>
+
+> **Documentation:** Full documentation is available in the language selector above.
+
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-20%2B-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="Node.js 20+" />
   <img src="https://img.shields.io/badge/Baileys-7.x-25D366?style=for-the-badge" alt="Baileys 7.x" />
   <img src="https://img.shields.io/badge/JavaScript-ESM-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript ESM" />
